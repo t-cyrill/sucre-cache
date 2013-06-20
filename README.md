@@ -6,7 +6,7 @@ SucreCache provides common cache interface. APC, memcache, etc.
 Installation
 --------------------
 
-## Composer
+### Composer
 
 Download the [`composer.phar`](http://getcomposer.org/composer.phar).
 And Install `sucre-cache` automatically.
